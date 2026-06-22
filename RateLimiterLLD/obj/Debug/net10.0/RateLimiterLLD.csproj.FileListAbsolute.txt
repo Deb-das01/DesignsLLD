@@ -1,0 +1,14 @@
+C:\Users\swast\source\repos\RateLimiterLLD\bin\Debug\net10.0\RateLimiterLLD.exe
+C:\Users\swast\source\repos\RateLimiterLLD\bin\Debug\net10.0\RateLimiterLLD.deps.json
+C:\Users\swast\source\repos\RateLimiterLLD\bin\Debug\net10.0\RateLimiterLLD.runtimeconfig.json
+C:\Users\swast\source\repos\RateLimiterLLD\bin\Debug\net10.0\RateLimiterLLD.dll
+C:\Users\swast\source\repos\RateLimiterLLD\bin\Debug\net10.0\RateLimiterLLD.pdb
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.AssemblyInfoInputs.cache
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.AssemblyInfo.cs
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.csproj.CoreCompileInputs.cache
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.dll
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\refint\RateLimiterLLD.dll
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.pdb
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\RateLimiterLLD.genruntimeconfig.cache
+C:\Users\swast\source\repos\RateLimiterLLD\obj\Debug\net10.0\ref\RateLimiterLLD.dll
